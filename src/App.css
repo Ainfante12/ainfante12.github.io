@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #FFB6C1;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,10 +22,11 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  font-weight: bold;
 }
 
 .Github-link {
-  color: #61dafb;
+  color:#800000;
 }
 
 /* @keyframes App-logo-spin {

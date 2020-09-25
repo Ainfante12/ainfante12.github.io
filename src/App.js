@@ -1,12 +1,14 @@
 import React from 'react';
 import logo from './blair.jpeg';
 import './App.css';
+import Link from 'next/link';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="personal picture" />
+ 
+    <img src={logo} className="App-logo" alt="personal picture" />
         <p>
           My name is Angeline Infante, and I am going to master React!
         </p>
